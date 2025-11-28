@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 📟 *CALCULADORA JAVASCRIPT COM TESTES EM JEST*
+=======
+📟 **CALCULADORA JAVASCRIPT COM TESTES EM JEST**
+>>>>>>> feature/primeiro-teste
 
 Este projeto é uma calculadora simples desenvolvida em JavaScript, com interface em HTML/CSS e testes automatizados utilizando Jest.
 Ele foi criado com o objetivo de praticar:
@@ -13,30 +17,30 @@ Ele foi criado com o objetivo de praticar:
 
 ----------------------------------------------------------------------------------------------------
 
-🚀 Funcionalidades
+🚀 **FUNCIONALIDADES**
 
 A calculadora permite:
 
-Adição
+- Adição
 
-Subtração
+- Subtração
 
-Multiplicação
+- Multiplicação
 
-Divisão
+- Divisão
 
-Limpar valores
+- Limpar valores
 
-Exibição do resultado na tela
+- Exibição do resultado na tela
 
 ----------------------------------------------------------------------------------------------------
 
-🧪 Testes (Jest)
+🧪 **TESTES (JEST)**
 
 O projeto inclui testes unitários para validar as operações matemáticas.
 Você pode rodar os testes com:
 
-npm test
+```npm test```
 
 Os testes estão no arquivo:
 
@@ -44,42 +48,39 @@ calculator.test.js
 
 ----------------------------------------------------------------------------------------------------
 
-▶️ Como executar
+▶️ **COMO EXECUTAR**
 
 Clone o repositório:
 
-git clone <https://github.com/Cristiane777/Calculadora.git>
-
+`git clone https://github.com/Cristiane777/Calculadora.git`
 
 Instale as dependências:
 
-npm install
+```npm install```
 
 Abra o arquivo index.html no navegador para usar a calculadora.
 
 ----------------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias utilizadas
+🛠️ **TECNOLOGIAS UTILIZADAS**
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
 
-Jest (testes)
+- Jest (testes)
 
 ----------------------------------------------------------------------------------------------------
 
-📚 Objetivo do projeto
+📚 **OBJETIVO DO PROJETO**
 
 Este projeto foi criado para estudo e prática de:
 
-Git e Gitflow
+- Git e Gitflow
 
-Estrutura de testes com Jest
+- Estrutura de testes com Jest
 
-Desenvolvimento frontend básico
-
-Controle de versões e pull requests
+- Controle de versões e pull requests
 
