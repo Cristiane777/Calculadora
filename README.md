@@ -1,15 +1,15 @@
-📟 Calculadora JavaScript com Testes em Jest
+📟 *CALCULADORA JAVASCRIPT COM TESTES EM JEST*
 
 Este projeto é uma calculadora simples desenvolvida em JavaScript, com interface em HTML/CSS e testes automatizados utilizando Jest.
 Ele foi criado com o objetivo de praticar:
 
-Lógica de programação
+- Lógica de programação
 
-Manipulação do DOM
+- Manipulação do DOM
 
-Estrutura de projetos JavaScript
+- Estrutura de projetos JavaScript
 
-Criação e execução de testes unitários
+- Criação e execução de testes unitários
 
 ----------------------------------------------------------------------------------------------------
 
