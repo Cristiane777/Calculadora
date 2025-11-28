@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-📟 *CALCULADORA JAVASCRIPT COM TESTES EM JEST*
-=======
 📟 **CALCULADORA JAVASCRIPT COM TESTES EM JEST**
->>>>>>> feature/primeiro-teste
 
 Este projeto é uma calculadora simples desenvolvida em JavaScript, com interface em HTML/CSS e testes automatizados utilizando Jest.
 Ele foi criado com o objetivo de praticar:
