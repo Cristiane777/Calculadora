@@ -48,8 +48,7 @@ calculator.test.js
 
 Clone o repositório:
 
-git clone https://github.com/Cristiane777/Calculadora.git
-
+`git clone https://github.com/Cristiane777/Calculadora.git`
 
 Instale as dependências:
 
